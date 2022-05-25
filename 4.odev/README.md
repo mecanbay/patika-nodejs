@@ -5,6 +5,8 @@
 - Dosyayı silelim.
 
 
+### NOT: Yapı Senkron şekilde Çalışır.
+
 ### main.js
  ```javascript
 const fs = require('fs');

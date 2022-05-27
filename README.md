@@ -9,3 +9,4 @@
 * [Ödev 4](https://github.com/mecanbay/patika-nodejs/tree/master/4.odev)
 * [Ödev 5](https://github.com/mecanbay/patika-nodejs/tree/master/5.odev)
 * [Ödev 6](https://github.com/mecanbay/patika-nodejs/tree/master/6.odev)
+* [Ödev 7](https://github.com/mecanbay/patika-nodejs/tree/master/7.odev)

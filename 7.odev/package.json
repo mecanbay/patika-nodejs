@@ -1,0 +1,24 @@
+{
+  "name": "7.odev",
+  "version": "1.0.0",
+  "description": "Patika NodeJS Ödev 7",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon app"
+  },
+  "keywords": [
+    "patika",
+    "clean",
+    "blog"
+  ],
+  "author": "mecanbay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "prettier": "^2.6.2"
+  }
+}

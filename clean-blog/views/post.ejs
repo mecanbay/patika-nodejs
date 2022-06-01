@@ -36,6 +36,13 @@
 
   <hr>
 
+  <div class="container ">
+    <div class="row d-flex justify-content-center">
+      <a class="btn btn-primary mr-3" href="/post/edit/<%= post.id %> ">Update</a>
+      <a onclick="return confirm('Silmek istediğinizden emin misiniz ? ')" class="btn btn-danger" href="/post/<%= post.id %>?_method=DELETE">Delete</a>
+    </div>
+  </div>
+
   <!-- Footer -->
   <%- include('partials/_footer') %> 
 
